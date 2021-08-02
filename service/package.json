@@ -1,0 +1,12 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart:dev": "npm install",
+    "start:dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
